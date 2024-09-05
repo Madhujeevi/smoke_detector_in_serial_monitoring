@@ -1,0 +1,1 @@
+# smoke_detector_in_serial_monitoring
